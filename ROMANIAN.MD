@@ -47,17 +47,18 @@ Când te joci pe servere private, principiul este același. Diferența este doar
 
 ![Wow-Defias](https://raw.githubusercontent.com/FrancescoBorzi/why-I-hate-wow-private-servers/master/img/wow-defias.jpg)
 
-**CLIENTUL**. Everyone has access to the original World of Warcraft client. You can easily get it by buying it or downloading it online. This program is exactly the one that you would use to play on the official server. Obviously different private servers have different client versions, but they always refer to the original client. You just need to make a small change to the "realmlist.wtf" file, replacing the address of the retail server address with the one of a private server. That's it.
+**CLIENTUL**. Toată lumea are acces la clientul original de World of Warcraft. Poți să il obții ușor dacă cumperi clientul sau îl descarci de pe internet. Acest program este exact același program pe care l-ai folosii să te joci pe serverele oficiale. Desigur, diferite servere private au cliente cu versiuni diferite, dar mereu folosesc clientul original. Tu doar trebuie să faci o mică schimbare în fișierul "realmlist.wtf", înlocuind adresa serverului de retail cu adresa serverului privat. Și asta e cam tot.
 
 **SERVER**. This is completely different. Nobody outside Blizzard has access to the original software that runs the official World of Warcraft servers. So these applications are completely different from the original one.
+**SERVER**. Asta este o diferență completă. Nimeni înafară de Blizzard nu are acces la software-ul original care rulează serverele oficiale de World of Warcraft. Deci aceste aplicații sunt complet diferite de cele originale.
 
 ### Reverse engineering
 
 ![Reverse engineering](https://raw.githubusercontent.com/FrancescoBorzi/why-I-hate-wow-private-servers/master/img/reverse-engineering.jpeg)
 
-Every software that runs private servers have been created through the "reverse engineering" technique, which, in simple words, means "I try to write a program that imitates the behaviour of another program, without looking at the original code".
+Toate software-urile care rulează servere private au fost create prin tehnica de "inginerie inversă", care, în cuvinte simple, înseamnă "Încerc să scriu un program care imitează comportamentul altui program, fără să mă uit la codul original".
 
-The question now is: who implemented this software and when did it happen?
+Întrebarea acum este: cine a implementat acest software și când s-a întâmplat?
 
 
 #### Digression about the copyright
